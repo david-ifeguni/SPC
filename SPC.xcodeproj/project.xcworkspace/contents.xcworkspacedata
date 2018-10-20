@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Tunes.xcodeproj">
+      location = "self:/Users/Abe/Documents/Tunes copy/SPC.xcodeproj">
    </FileRef>
 </Workspace>
